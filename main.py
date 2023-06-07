@@ -5,5 +5,5 @@ gender = input('Digite seu sexo ')
 print('seus dados são: ')
 print(name, ' - ',city, ' - ', gender)
 
-#Thiago chato e enjoado
 
+#alteração que foi identificada.
