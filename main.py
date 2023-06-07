@@ -6,4 +6,4 @@ print('seus dados são: ')
 print(name, ' - ',city, ' - ', gender)
 
 
-
+#alteração que foi identificada.
