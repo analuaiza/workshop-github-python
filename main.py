@@ -6,3 +6,4 @@ print('seus dados são: ')
 print(name, ' - ',city, ' - ', gender)
 
 #Thiago chato e enjoado
+
